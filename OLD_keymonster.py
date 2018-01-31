@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 
 __author__ = "Touhid M.Shaikh"
-__description__ = """Dump KeyStroke From Pcap file"""
+__description__ = """THIS IS FIRST VERSION OF THIS PROGRAM (user Newer version for good result )"""
 
 def keys():
     keys = {}
